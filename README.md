@@ -30,3 +30,4 @@ This project is a labor of love, and I don't earn any money for developing it. B
 
 - Uses [XIVChatTools](https://github.com/digital-pet/XIVChatTools) for extended filtering capabilities.
 - Inspired by the original [AetherSense](https://github.com/Ms-Tress/AetherSense) plugin by Ms Tress.
+- Original Code by [aka-tamagotchi](https://github.com/aka-tamagotchi)
